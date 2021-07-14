@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img alt="dtmoney" src="" width="100%">
+  <img alt="dtmoney" src="https://github.com/carolferreiradev/dtmoney/blob/master/public/github.png" width="100%">
 </p>
 
 ## 💻 Projeto
