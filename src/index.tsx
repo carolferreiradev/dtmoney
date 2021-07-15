@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { createServer } from 'miragejs';
 import { App } from './App';
+import { createServer } from 'miragejs';
 
 createServer({
   routes() {
