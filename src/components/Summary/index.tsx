@@ -1,7 +1,8 @@
 import { Container } from "./style";
-import icomeImg from '../../assets/income.svg'
-import outcomeImg from '../../assets/outcome.svg'
-import totalImg from '../../assets/total.svg'
+import icomeImg from "../../assets/income.svg";
+import outcomeImg from "../../assets/outcome.svg";
+import totalImg from "../../assets/total.svg";
+import { useState } from "react";
 export function Summary() {
   return (
     <Container>
@@ -29,5 +30,5 @@ export function Summary() {
         <strong>R$ 500,00</strong>
       </div>
     </Container>
-  )
+  );
 }
